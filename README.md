@@ -1,3 +1,3 @@
-# PSPC
+This Respository was created by @uddipmayur
 
-This folder only includes the programs done in 2nd Semester.
+Modifications of files is not practised without original author's authorisation.
